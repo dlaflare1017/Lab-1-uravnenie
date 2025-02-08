@@ -1,0 +1,14 @@
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/bin/Debug/net9.0/Lab 1 uravnenie
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/bin/Debug/net9.0/Lab 1 uravnenie.deps.json
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/bin/Debug/net9.0/Lab 1 uravnenie.runtimeconfig.json
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/bin/Debug/net9.0/Lab 1 uravnenie.dll
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/bin/Debug/net9.0/Lab 1 uravnenie.pdb
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/Lab 1 uravnenie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/Lab 1 uravnenie.AssemblyInfoInputs.cache
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/Lab 1 uravnenie.AssemblyInfo.cs
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/Lab 1 uravnenie.csproj.CoreCompileInputs.cache
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/Lab 1 uravnenie.dll
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/refint/Lab 1 uravnenie.dll
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/Lab 1 uravnenie.pdb
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/Lab 1 uravnenie.genruntimeconfig.cache
+/Users/onetime/Desktop/ALL LABS KBK/Osnovi algaritmizacii/Lab 1 uravnenie/Lab 1 uravnenie/obj/Debug/net9.0/ref/Lab 1 uravnenie.dll
